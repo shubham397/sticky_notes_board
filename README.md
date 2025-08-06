@@ -20,7 +20,7 @@ A dynamic, draggable sticky notes interface — ideal for personal dashboards, p
 src/
 ├── components/
 │ └── StickyNote.tsx
-│ └── searchSuggestDropdown.css
+│ └── StickyBoard.tsx
 | └── stickyNotes.css
 ├── App.tsx
 
